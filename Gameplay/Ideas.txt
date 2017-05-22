@@ -1,0 +1,10 @@
+2 pistolets ki fusionnent et donnent un fusil d'assaut
+
+CoAl-capacité de boomerang avec pistolet
+
+Le temps mis par djack entre les attaques (temps de pause).
+
+Permettre au Légion de Viral de laisser tomber un bouclier lorsqu'il est 
+détruit.
+
+
